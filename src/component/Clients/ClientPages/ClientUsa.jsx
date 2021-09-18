@@ -12,7 +12,7 @@ class UsaClient extends React.Component {
                 <Header />
                 <section class="container" id="container">
                     <main class="main">
-                        <section class="default-banner project-banner" style={{ backgroundCcolor: "#0f0f0f", backgroundImage: "url('https://dblx.co.uk/app/uploads/2020/01/1-11.jpg')" }}>
+                        <section class="default-banner project-banner" style={{ backgroundCcolor: "#0f0f0f", backgroundImage: "url('/assets/img/client-usa-top.png')" }}>
                             <div class="banner-side-text">Anmarie Uber</div>
                             <ul class="solution-icons">
                                 <li>Client</li>
@@ -95,7 +95,7 @@ class UsaClient extends React.Component {
                                 </div>
                             </div>
                         </div>
-                        <div class="project-section-three fh-section" style={{ backgroundImage: "url('https://dblx.co.uk/app/uploads/2020/01/4-8.jpg')" }}></div>
+                        <div class="project-section-three fh-section" style={{ backgroundImage: "url('/assets/img/usa-banner-img-2.png')" }}></div>
                         <div class="project-section-two fh-section">
                             <div class="project-section-two-inner">
                                 <div class="project-approach-wrapper">
@@ -105,7 +105,7 @@ class UsaClient extends React.Component {
                                             <p class="p1"><span class="s1"> </span></p>
                                             <p class="p1"><span class="s1">We built the website with the recognition of the ever-changing nature of online businesses and the growing needs of our client's business. We allowed for this growth by developing a strong foundation with which we would be able to adapt the website as more products and services are introduced.</span></p>
                                         </div>
-                                        <div class="project-approach-sub-image" style={{ backgroundImage: "url('/assets/img/anmarie-ubr-mage-04.png')" }}>
+                                        <div class="project-approach-sub-image" style={{ backgroundImage: "url('/assets/img/anmarie-ubr-mage-05.png')" }}>
                                         </div>
                                     </div>
                                     <div class="project-approach-left" style={{ backgroundImage: "url('/assets/img/approch-image-022.jpg')" }}>
@@ -113,7 +113,7 @@ class UsaClient extends React.Component {
                                 </div>
                             </div>
                         </div>
-                        <div class="project-section-three fh-section" style={{ backgroundImage: "url('/assets/img/anmarie-ubr-mage-05.png')" }}></div>
+                        <div class="project-section-three fh-section" style={{ backgroundImage: "url('/assets/img/anmarie-ubr-mage-04.png')" }}></div>
                         <div class="project-section-six fh-section">
                             <div class="project-section-six-inner">
                                 <div class="project-result-title" data-aos="fade-up">

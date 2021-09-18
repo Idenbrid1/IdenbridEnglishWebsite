@@ -25,7 +25,7 @@ class Client extends React.Component {
                                 </div>
                                 <Link/>
                             </div>
-                            <div className="projects-overview-grid__project" style={{ backgroundImage: 'url("https://dblx.co.uk/app/uploads/2019/10/1-1.jpg")' }}>
+                            <div className="projects-overview-grid__project" style={{ backgroundImage: 'url("/assets/img/client_usa anmarie.jpg")' }}>
                                 <Link className="fill-link" to="clients/usa" />
                                 <div className="text">
                                     <h2>USA</h2>
@@ -36,7 +36,7 @@ class Client extends React.Component {
                                 </div>
                                 <Link/>
                             </div>
-                            <div className="projects-overview-grid__project" style={{ backgroundImage: 'url("https://dblx.co.uk/app/uploads/2020/01/DBLX-Subsea-7-scaled.jpg")' }}>
+                            <div className="projects-overview-grid__project" style={{ backgroundImage: 'url("/assets/img/client_ms.waribashi.jpg")' }}>
                                 <Link className="fill-link" to="/clients/waribashi" />
                                 <div className="text">
                                     <h2>Ms. Waribashi Kitchen</h2>

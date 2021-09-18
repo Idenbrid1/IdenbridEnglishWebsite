@@ -114,31 +114,31 @@ class About extends React.Component {
               {/* <li className="department accounts" data-department="accounts">
                 Accounts
               </li> */}
-              <li className="department creative" data-department="creative">
-                Creative
-              </li>
               <li className="department developers" data-department="developers">
               Developers
               </li>
-              <li className="department central" data-department="central">
-                Central
+              <li className="department creative" data-department="creative">
+                Business
               </li>
+              {/*<li className="department central" data-department="central">
+                Central
+              </li>*/}
             </ul>
             <ul className="team-members">
-              <li className="member  leaders" data-slug style={{backgroundImage: 'url("https://dblx.co.uk/app/uploads/2019/12/gaz-scaled.jpg")'}}>
+             {/*} <li className="member  leaders" data-slug style={{backgroundImage: 'url("https://dblx.co.uk/app/uploads/2019/12/gaz-scaled.jpg")'}}>
                 <figure className="superhero" style={{backgroundImage: 'url("https://dblx.co.uk/app/uploads/2020/01/Gaz-Hannibal3.jpg")'}}>
                 </figure>
                 <h3>F ・ Saleem</h3>
                 <span className="role">Executive Chairperson</span>
-              </li>
-              <li className="member  leaders" data-slug style={{backgroundImage: 'url("https://dblx.co.uk/app/uploads/2019/12/Nicky-H.jpg")'}}>
-                <figure className="superhero" style={{backgroundImage: 'url("https://dblx.co.uk/app/uploads/2019/12/Nicky-Ripley.jpg")'}}>
+              </li>*/}
+              <li className="member  leaders" data-slug style={{backgroundImage: 'url("/assets/img/nakamura.png")'}}>
+                <figure className="superhero" style={{backgroundImage: 'url("/assets/img/nakamura-charactor.png")'}}>
                 </figure>
                 <h3>Souga Nakamura</h3>
                 <span className="role">Chief Executive Officer</span>
               </li>
-              <li className="member  leaders" data-slug style={{backgroundImage: 'url("https://dblx.co.uk/app/uploads/2020/07/Chris-c4.jpg")'}}>
-                <figure className="superhero" style={{backgroundImage: 'url("https://dblx.co.uk/app/uploads/2020/07/Chris-Jafar-1.jpg")'}}>
+              <li className="member  leaders" data-slug style={{backgroundImage: 'url("/assets/img/sir-aska.png")'}}>
+                <figure className="superhero" style={{backgroundImage: 'url("/assets/img/aska-charactor.jpg")'}}>
                 </figure>
                 <h3>Aska Ikeda</h3>
                 <span className="role">Chief Digital Officer</span>
@@ -150,32 +150,32 @@ class About extends React.Component {
                 <span className="role">Head of People and Talent</span>
               </li> */}
            
-              <li className="member  developers" data-slug style={{backgroundImage: 'url("https://dblx.co.uk/app/uploads/2019/12/chris-scaled.jpg")'}}>
-                <figure className="superhero" style={{backgroundImage: 'url("https://dblx.co.uk/app/uploads/2019/12/Chris-Hyena.jpg")'}}>
+              <li className="member  developers" data-slug style={{backgroundImage: 'url("/assets/img/Suzuki.png")'}}>
+                <figure className="superhero" style={{backgroundImage: 'url("/assets/img/Suzuki-charactor.png")'}}>
                 </figure>
                 <h3>Ken Suzuki</h3>
                 <span className="role">Head of Development</span>
               </li>
-              <li className="member  developers" data-slug style={{backgroundImage: 'url("https://dblx.co.uk/app/uploads/2019/12/ash-scaled.jpg")'}}>
-                <figure className="superhero" style={{backgroundImage: 'url("https://dblx.co.uk/app/uploads/2019/12/Ash-John.jpg")'}}>
+              <li className="member  developers" data-slug style={{backgroundImage: 'url("/assets/img/Nishimura.png")'}}>
+                <figure className="superhero" style={{backgroundImage: 'url("/assets/img/Nishimura-charactor.png")'}}>
                 </figure>
                 <h3>Nishimura</h3>
                 <span className="role">Project Manager</span>
               </li>
-              <li className="member  developers" data-slug style={{backgroundImage: 'url("https://dblx.co.uk/app/uploads/2019/12/ross-scaled.jpg")'}}>
-                <figure className="superhero" style={{backgroundImage: 'url("https://dblx.co.uk/app/uploads/2020/01/Ross-Dr-Cox.jpg")'}}>
+              <li className="member  developers" data-slug style={{backgroundImage: 'url("/assets/img/Mujhtba.png")'}}>
+                <figure className="superhero" style={{backgroundImage: 'url("/assets/img/Mujhtba-charactor.jpg")'}}>
                 </figure>
                 <h3>Mujtaba Tariq</h3>
                 <span className="role">Project Manager</span>
               </li>
-              <li className="member  developers" data-slug style={{backgroundImage: 'url("/assets/img/abouts.jpg")'}}>
-                <figure className="superhero" style={{backgroundImage: 'url("https://dblx.co.uk/app/uploads/2019/12/Mark-Bill.jpg")'}}>
+              <li className="member  developers" data-slug style={{backgroundImage: 'url("/assets/img/Sir-Hamza.jpg")'}}>
+                <figure className="superhero" style={{backgroundImage: 'url("/assets/img/loki-tv-show-ddb01c2.jpg")'}}>
                 </figure>
                 <h3>Hamza Saqib</h3>
                 <span className="role">Head Architect</span>
               </li>
-              <li className="member  developers" data-slug style={{backgroundImage: 'url("https://dblx.co.uk/app/uploads/2019/12/joe-2-scaled.jpg")'}}>
-                <figure className="superhero" style={{backgroundImage: 'url("https://dblx.co.uk/app/uploads/2019/12/Joe-Kevin.jpg")'}}>
+              <li className="member  developers" data-slug style={{backgroundImage: 'url("/assets/img/Ahmad.jpg")'}}>
+                <figure className="superhero" style={{backgroundImage: 'url("/assets/img/loki-tv-show-ddb01c2.jpg")'}}>
                 </figure>
                 <h3>Ahmad</h3>
                 <span className="role">Senior Full Stack Developer</span>
@@ -187,38 +187,38 @@ class About extends React.Component {
                 <span className="role">Senior Back End developer</span>
               </li>
               <li className="member  developers" data-slug style={{backgroundImage: 'url("https://dblx.co.uk/app/uploads/2019/12/hannah-scaled.jpg")'}}>
-                <figure className="superhero" style={{backgroundImage: 'url("https://dblx.co.uk/app/uploads/2019/12/Hannah-Hei-hei.jpg")'}}>
+                <figure className="superhero" style={{backgroundImage: 'url("/assets/img/samad-charactor.jpg")'}}>
                 </figure>
-                <h3>New person</h3>
-                <span className="role">Senior Back End developer</span>
+                <h3>Abdul Samad</h3>
+                <span className="role">Back End developer</span>
               </li>
-              <li className="member  developers" data-slug style={{backgroundImage: 'url("https://dblx.co.uk/app/uploads/2019/12/tom-scaled.jpg")'}}>
-                <figure className="superhero" style={{backgroundImage: 'url("https://dblx.co.uk/app/uploads/2019/12/Tom-Poseidon.jpg")'}}>
+              <li className="member  developers" data-slug style={{backgroundImage: 'url("/assets/img/Hamza-malik.png")'}}>
+                <figure className="superhero" style={{backgroundImage: 'url("/assets/img/turgut.jpg")'}}>
                 </figure>
                 <h3>Hamza Malik</h3>
                 <span className="role">Developer</span>
               </li>
             
-              <li className="member  developers" data-slug style={{backgroundImage: 'url("https://dblx.co.uk/app/uploads/2019/12/alex-scaled.jpg")'}}>
-                <figure className="superhero" style={{backgroundImage: 'url("https://dblx.co.uk/app/uploads/2019/12/Alex-Sassy.jpg")'}}>
+              <li className="member  developers" data-slug style={{backgroundImage: 'url("/assets/img/kashif-zia.jpeg")'}}>
+                <figure className="superhero" style={{backgroundImage: 'url("/assets/img/eik-thi-maryam.jpg")'}}>
                 </figure>
                 <h3>Kashif Zia</h3>
                 <span className="role">WordPress Developer</span>
               </li>
-              <li className="member  developers" data-slug style={{backgroundImage: 'url("https://dblx.co.uk/app/uploads/2019/12/declan-scaled.jpg")'}}>
-                <figure className="superhero" style={{backgroundImage: 'url("https://dblx.co.uk/app/uploads/2019/12/Declan-Nathan.jpg")'}}>
+              <li className="member  developers" data-slug style={{backgroundImage: 'url("/assets/img/Sir-Tariq.png")'}}>
+                <figure className="superhero" style={{backgroundImage: 'url("/assets/img/tariq-charactor.jpg")'}}>
                 </figure>
-                <h3>Mudasir</h3>
+                <h3>Muhammad Tariq</h3>
                 <span className="role">Apprentice Developer</span>
               </li>
-              <li className="member  developers" data-slug style={{backgroundImage: 'url("https://dblx.co.uk/app/uploads/2019/12/nathaniel-scaled.jpg")'}}>
-                <figure className="superhero" style={{backgroundImage: 'url("https://dblx.co.uk/app/uploads/2019/12/Nath-Moss-2.jpg")'}}>
+              <li className="member  developers" data-slug style={{backgroundImage: 'url("/assets/img/ali-yousof.png")'}}>
+                <figure className="superhero" style={{backgroundImage: 'url("/assets/img/ali-yousof-charactor.jpeg")'}}>
                 </figure>
                 <h3>Ali Yousaf</h3>
                 <span className="role">Apprentice Developer</span>
               </li>
-              <li className="member  developers" data-slug style={{backgroundImage: 'url("https://dblx.co.uk/app/uploads/2019/12/callum-scaled.jpg")'}}>
-                <figure className="superhero" style={{backgroundImage: 'url("https://dblx.co.uk/app/uploads/2019/12/Callum-Liam.jpg")'}}>
+              <li className="member  developers" data-slug style={{backgroundImage: 'url("/assets/img/Ali-Tahir.png")'}}>
+                <figure className="superhero" style={{backgroundImage: 'url("/assets/img/ali-tahir-characto.jpeg")'}}>
                 </figure>
                 <h3>Ali Tahir</h3>
                 <span className="role">Apprentice Developer</span>
@@ -235,24 +235,30 @@ class About extends React.Component {
                 <h3>Muhammad Hamza</h3>
                 <span className="role">Apprentice Developer</span>
               </li>
-              <li className="member  creative" data-slug style={{backgroundImage: 'url("https://dblx.co.uk/app/uploads/2019/12/luke-test.jpg")'}}>
-                <figure className="superhero" style={{backgroundImage: 'url("https://dblx.co.uk/app/uploads/2019/12/Luke-Tommy.jpg")'}}>
+              <li className="member  creative" data-slug style={{backgroundImage: 'url("/assets/img/waleed.png")'}}>
+                <figure className="superhero" style={{backgroundImage: 'url("/assets/img/Quaid-e-Azam_Jinnah.jpg")'}}>
                 </figure>
                 <h3>Waleed</h3>
                 <span className="role">Brand Officer</span>
               </li>
-              <li className="member  creative" data-slug style={{backgroundImage: 'url("https://dblx.co.uk/app/uploads/2020/02/Abbie.jpg")'}}>
-                <figure className="superhero" style={{backgroundImage: 'url("https://dblx.co.uk/app/uploads/2020/02/Abbie-Mavis.jpg")'}}>
-                </figure>
-                <h3>Hira</h3>
-                <span className="role">UIUX Designer</span>
-                {/*  */}
-              </li>
-              <li className="member  creative" data-slug style={{backgroundImage: 'url("https://dblx.co.uk/app/uploads/2019/12/nick.jpg")'}}>
-                <figure className="superhero" style={{backgroundImage: 'url("https://dblx.co.uk/app/uploads/2020/02/Abbie-Mavis.jpg")'}}>
+              <li className="member  creative" data-slug style={{backgroundImage: 'url("/assets/img/Fahad.png")'}}>
+                <figure className="superhero" style={{backgroundImage: 'url("/assets/img/Quaid-e-Azam_Jinnah.jpg")'}}>
                 </figure>
                 <h3>Fahad</h3>
                 <span className="role">Apprentic bussiness Developer</span>
+              </li>
+              <li className="member  creative" data-slug style={{backgroundImage: 'url("/assets/img/shahnwaz.jpg")'}}>
+                <figure className="superhero" style={{backgroundImage: 'url("/assets/img/shahnwaz-charactor.jpg")'}}>
+                </figure>
+                <h3>Shah Nawaz</h3>
+                <span className="role">CEO Assistant</span>
+              </li>
+              <li className="member  creative" data-slug style={{backgroundImage: 'url("/assets/img/abdullah.png")'}}>
+                <figure className="superhero" style={{backgroundImage: 'url("/assets/img/")'}}>
+                </figure>
+                <h3>Abdullah Nasir</h3>
+                <span className="role">UIUX Designer / Creative Designer</span>
+                {/*  */}
               </li>
               {/* <li className="member  accounts" data-slug style={{backgroundImage: 'url("https://dblx.co.uk/app/uploads/2019/12/Hannah-M.jpg")'}}>
                 <figure className="superhero" style={{backgroundImage: 'url("https://dblx.co.uk/app/uploads/2019/12/Hannah-Harley-2.jpg")'}}>

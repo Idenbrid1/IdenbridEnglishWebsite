@@ -29,7 +29,7 @@ class Experience extends React.Component {
                                 </li>
                                 <li className="service_3">
                                     <figure className="service-image" style={{ backgroundImage: 'url("https://dblx.co.uk/app/uploads/2020/01/5-3.jpg")' }} />
-                                    <Link href="solutions/topbizer">TopBizer Premium Employes</Link>
+                                    <Link href="solutions/topbizer">Remote House</Link>
                                 </li>
                                 <li className="service_4">
                                     <figure className="service-image" style={{ backgroundImage: 'url("https://dblx.co.uk/app/uploads/2020/01/5-1-1.jpg")' }} />

@@ -84,12 +84,12 @@ class Contact extends React.Component {
                                     </figure>
                                     <div className="location-text">
                                         <h3>Lahore</h3>
-                                        
                                         <p></p>
                                         <p>176 Y Block DHA Phase 3, Lahore</p>
                                         <p>
                                         Telephone
                                         </p>
+                                        <p>03014345825</p>
                                         <p />
                                     </div>
                                 </li>

@@ -25,9 +25,9 @@ class Career extends React.Component {
                             <div className="careers-tabs__wrapper" data-aos="fade-up">
                                 <div className="careers-tabs__left">
                                     <div className="careers-tabs-left">
-                                        <figure className="tab_1" data-tab="tab_1" style={{ backgroundImage: 'url("https://dblx.co.uk/app/uploads/2020/06/dblx-careers-about.jpg")' }}>
+                                        <figure className="tab_1" data-tab="tab_1" style={{ backgroundImage: 'url("/assets/img/mission.png")' }}>
                                         </figure>
-                                        <figure className="tab_2" data-tab="tab_2" style={{ backgroundImage: 'url("https://dblx.co.uk/app/uploads/2020/06/dblx-careers-banner.jpg")' }}>
+                                        <figure className="tab_2" data-tab="tab_2" style={{ backgroundImage: 'url("/assets/img/culture.png")' }}>
                                         </figure>
                                     </div>
                                 </div>
@@ -84,25 +84,25 @@ class Career extends React.Component {
                                 <div className="glide__track" data-glide-el="track">
                                     <ul className="glide__slides">
                                         <li className="careers-values__slider__slide glide__slide">
-                                            <img alt="img" src="https://dblx.co.uk/app/uploads/2020/06/Movie-Posters-01.jpg" />
+                                            <img alt="img" src="/assets/img/upgrade.png" />
                                         </li>
                                         <li className="careers-values__slider__slide glide__slide">
-                                            <img alt="img" src="https://dblx.co.uk/app/uploads/2020/06/Movie-Posters-02.jpg" />
+                                            <img alt="img" src="/assets/img/creative.png" />
                                         </li>
                                         <li className="careers-values__slider__slide glide__slide">
-                                            <img alt="img" src="https://dblx.co.uk/app/uploads/2020/06/Movie-Posters-03.jpg" />
+                                            <img alt="img" src="/assets/img/entertainment.png" />
                                         </li>
                                         <li className="careers-values__slider__slide glide__slide">
-                                            <img alt="img" src="https://dblx.co.uk/app/uploads/2020/06/Movie-Posters-04.jpg" />
+                                            <img alt="img" src="/assets/img/never-give-up.png" />
                                         </li>
                                         <li className="careers-values__slider__slide glide__slide">
-                                            <img alt="img" src="https://dblx.co.uk/app/uploads/2020/06/Movie-Posters-05.jpg" />
+                                            <img alt="img" src="/assets/img/visualize.png" />
                                         </li>
                                         <li className="careers-values__slider__slide glide__slide">
-                                            <img alt="img" src="https://dblx.co.uk/app/uploads/2020/06/Movie-Posters-06.jpg" />
+                                            <img alt="img" src="/assets/img/update-feature.png" />
                                         </li>
                                         <li className="careers-values__slider__slide glide__slide">
-                                            <img alt="img" src="https://dblx.co.uk/app/uploads/2020/06/Movie-Posters-07.jpg" />
+                                            <img alt="img" src="/assets/img/commit to results.png" />
                                         </li>
                                     </ul>
                                 </div>
@@ -237,7 +237,7 @@ class Career extends React.Component {
                                     </div>
                                     <Link/>
                                 </li>
-                                <li className="careers-info__posts__post post-2 tilt" style={{ backgroundImage: 'url("https://dblx.co.uk/app/uploads/2020/04/Dan-M.jpg")' }}>
+                                <li className="careers-info__posts__post post-2 tilt" style={{ backgroundImage: 'url("/assets/img/sir-aska-career.png")' }}>
                                     <Link to="/careers/message" className="fill-link" />
                                     <div className="card-bottom">
                                         <span className="blog-category">
@@ -251,7 +251,7 @@ class Career extends React.Component {
                                     </div>
                                     <Link/>
                                 </li>
-                                <li className="careers-info__posts__post post-3 tilt" style={{ backgroundImage: 'url("https://dblx.co.uk/app/uploads/2019/12/waves.jpg")' }}>
+                                <li className="careers-info__posts__post post-3 tilt" style={{ backgroundImage: 'url("/assets/img/contact-top.jpg")' }}>
                                     <Link to="/contact" className="fill-link" />
                                     <div className="card-bottom">
                                         <span className="blog-name">Contact</span>
@@ -262,7 +262,7 @@ class Career extends React.Component {
                                     </div>
                                     <Link/>
                                 </li>
-                                <li className="careers-info__posts__post post-4 tilt" style={{ backgroundImage: 'url("https://dblx.co.uk/app/uploads/2020/01/Home.jpg")' }}>
+                                <li className="careers-info__posts__post post-4 tilt" style={{ backgroundImage: 'url("/assets/img/about.jpg")' }}>
                                     <Link to="/about" className="fill-link" />
                                     <div className="card-bottom">
                                         <span className="blog-name">About</span>
