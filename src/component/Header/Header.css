@@ -1,0 +1,14 @@
+
+.text-color-blue{
+    color: #00ABD0;
+}
+@media screen  and (max-width:769px){
+    .white-logo{
+     display: none;   
+    }
+    .black-logo{
+    display: block !important;
+    }
+
+    
+}
