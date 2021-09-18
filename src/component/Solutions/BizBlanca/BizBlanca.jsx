@@ -22,6 +22,10 @@ class BizBlanca extends React.Component {
                         </section>
                         <div className="overview fh-section">
                             <figure className="overview-image" style={{ backgroundImage: 'url("/assets/img/bizblanca-img-22.png")' }} />
+                            {/*  */}
+                            
+                            
+                            {/*  */}
                             <div className="overview-text text-section">
                                 <h2>BizBlanca Platform <em>Overview</em>.</h2>
                                 <p>
