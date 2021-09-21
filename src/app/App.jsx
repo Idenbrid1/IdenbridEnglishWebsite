@@ -15,7 +15,8 @@ import  MessageNews  from "../component/MessageNews/MessageNews";
 import MessagePerson from "../component/MessageNews/MessagePerson";
 import PrivacyPolicy from "../component/PrivacyPolicy/PrivacyPolicy";
 import Pakteki from "../component/Solutions/Pakteki/Pakteki";
-
+import CommingSoon from '../component/commingSoon/CommingSoon';
+import RemoteHouse from '../component/Experiences/RemoteHouse/RemoteHouse';
 import loadjs from "loadjs";
 
 class App extends React.Component {
@@ -27,11 +28,13 @@ class App extends React.Component {
       <Fragment>
           <Switch>
             <Route exact path="/" component={Home}/>
+            <Route exact path="/comming-soon" component={CommingSoon}/>
             <Route exact path="/about" component={About}/>
             <Route exact path="/solutions" component={Solution}/>
             <Route exact path="/solutions/bizblanca" component={BizBlanca}/>
             <Route exact path="/solutions/pakteki" component={Pakteki}/>
             <Route exact path="/experiences" component={Experience}/>
+            <Route exact path="/experience/remote-house" component={RemoteHouse}/>
             <Route exact path="/clients" component={Client}/>
             <Route exact path="/careers" component={Career}/>
             <Route exact path="/careers/message" component={MessagePerson}/>

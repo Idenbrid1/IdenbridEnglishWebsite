@@ -2,10 +2,12 @@ import React, { Fragment } from 'react';
 import Header from "../Header/Header";
 import Footer from '../Footer/Footer';
 import { Link } from 'react-router-dom';
+import loadjs from 'loadjs';
 class Experience extends React.Component {
     state = {}
     componentDidMount(){
         document.body.classList.value='archive tax-categories';
+        loadjs('/assets/js/jquery.min.js');
       }
     render() {
         return (
@@ -21,19 +23,19 @@ class Experience extends React.Component {
                                 </li>
                                 <li className="service_1">
                                     <figure className="service-image" style={{ backgroundImage: 'url("assets/img/experience.jpg")' }} />
-                                    <Link to="experiences/business">Business</Link>
+                                    <Link to="/comming-soon">Business</Link>
                                 </li>
                                 <li className="service_2">
                                     <figure className="service-image" style={{ backgroundImage: 'url("assets/img/experience_web_mobile.jpg")' }} />
-                                    <Link to="experiences/website-mobile-platforms/">Web &amp; Mobile Platforms</Link>
+                                    <Link to="/comming-soon">Web &amp; Mobile Platforms</Link>
                                 </li>
                                 <li className="service_3">
                                     <figure className="service-image" style={{ backgroundImage: 'url("https://dblx.co.uk/app/uploads/2020/01/5-3.jpg")' }} />
-                                    <Link href="solutions/topbizer">Remote House</Link>
+                                    <Link to="/experience/remote-house">Remote House</Link>
                                 </li>
                                 <li className="service_4">
                                     <figure className="service-image" style={{ backgroundImage: 'url("https://dblx.co.uk/app/uploads/2020/01/5-1-1.jpg")' }} />
-                                    <Link href="solutions/bizer">Bizer Local Employes
+                                    <Link to="/comming-soon">Bizer Local Employes
                                         Platform</Link>
                                 </li>
                             </ul>

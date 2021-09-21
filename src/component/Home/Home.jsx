@@ -123,11 +123,11 @@ class Home extends Component {
                   </li>
 
                   <li className="project project_4" style={{ backgroundImage: "url('assets/img/idenbrid-solution-img.jpg')" }}>
-                    <Link className="fill-link" to="/solutions"></Link>
+                    <Link className="fill-link" to="/experience/remote-house"></Link>
                     <div className="text">
                       <p className="project-type">EXPERIENCES</p>
                       <h2>Remote House</h2>
-                      <Link to="/solutions">FIND OUT MORE</Link>
+                      <Link to="/experience/remote-house">FIND OUT MORE</Link>
                     </div>
                   </li>
                 </ul>

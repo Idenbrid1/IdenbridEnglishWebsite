@@ -131,7 +131,7 @@ class About extends React.Component {
                 <h3>F ・ Saleem</h3>
                 <span className="role">Executive Chairperson</span>
               </li>*/}
-              <li className="member  leaders" data-slug style={{backgroundImage: 'url("/assets/img/nakamura.png")'}}>
+              <li className="member  leaders" data-slug style={{backgroundImage: 'url("/assets/img/ceo_img.png")'}}>
                 <figure className="superhero" style={{backgroundImage: 'url("/assets/img/nakamura-charactor.png")'}}>
                 </figure>
                 <h3>Souga Nakamura</h3>
@@ -174,8 +174,8 @@ class About extends React.Component {
                 <h3>Hamza Saqib</h3>
                 <span className="role">Head Architect</span>
               </li>
-              <li className="member  developers" data-slug style={{backgroundImage: 'url("/assets/img/Ahmad.jpg")'}}>
-                <figure className="superhero" style={{backgroundImage: 'url("/assets/img/loki-tv-show-ddb01c2.jpg")'}}>
+              <li className="member  developers" data-slug style={{backgroundImage: 'url("/assets/img/ahmad-frontend-dev.JPG")',backgroundSize:"35vw 100%"}}>
+                <figure className="superhero" style={{backgroundImage: 'url("/assets/img/elon.jpg")'}}>
                 </figure>
                 <h3>Ahmad</h3>
                 <span className="role">Senior Full Stack Developer</span>
