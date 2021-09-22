@@ -48,7 +48,7 @@ class About extends React.Component {
           </div>
           <div className="about-awards">
             <div className="about-awards_inner">
-              <span className="about-awards_count">4</span>
+              <span className="about-awards_count">10</span>
               <div className="about-awards_text text-section">
                 <h2>Countries worldwide.</h2>
                 <h3><em>All connected online.</em></h3>
@@ -60,47 +60,47 @@ class About extends React.Component {
               </div>
               <ul className="about-awards_logos">
                 <li>
-                  <figure style={{backgroundImage: 'url("https://dblx.co.uk/app/uploads/2020/01/DBLX-Awards-06-1.svg")'}}>
+                  <figure style={{backgroundImage: 'url("/assets/img/country-flags/japan-flag.svg")'}}>
                   </figure>
                 </li>
                 <li>
-                  <figure style={{backgroundImage: 'url("https://dblx.co.uk/app/uploads/2020/01/DBLX-Awards-05-1.svg")'}}>
+                  <figure style={{backgroundImage: 'url("/assets/img/country-flags/vitenam-flag.svg")'}}>
                   </figure>
                 </li>
                 <li>
-                  <figure style={{backgroundImage: 'url("https://dblx.co.uk/app/uploads/2020/01/DBLX-Awards-01-1.svg")'}}>
+                  <figure style={{backgroundImage: 'url("/assets/img/country-flags/pakistan-flag.svg")'}}>
                   </figure>
                 </li>
                 <li>
-                  <figure style={{backgroundImage: 'url("https://dblx.co.uk/app/uploads/2020/01/DBLX-Awards-03-1.svg")'}}>
+                  <figure style={{backgroundImage: 'url("/assets/img/country-flags/usa-flag.svg")'}}>
                   </figure>
                 </li>
                 <li>
-                  <figure style={{backgroundImage: 'url("https://dblx.co.uk/app/uploads/2020/01/DBLX-Awards-02-1.svg")'}}>
+                  <figure style={{backgroundImage: 'url("/assets/img/country-flags/china-flag.svg")'}}>
                   </figure>
                 </li>
                 <li>
-                  <figure style={{backgroundImage: 'url("https://dblx.co.uk/app/uploads/2020/01/NFDA-01.svg")'}}>
+                  <figure style={{backgroundImage: 'url("/assets/img/country-flags/thai-flag.svg")'}}>
                   </figure>
                 </li>
                 <li>
-                  <figure style={{backgroundImage: 'url("https://dblx.co.uk/app/uploads/2020/01/NFDA-02.svg")'}}>
+                  <figure style={{backgroundImage: 'url("/assets/img/country-flags/phillippine-flag.svg")'}}>
                   </figure>
                 </li>
                 <li>
-                  <figure style={{backgroundImage: 'url("https://dblx.co.uk/app/uploads/2020/09/Brandon-Hall-Group-01-2-01.svg")'}}>
+                  <figure style={{backgroundImage: 'url("/assets/img/country-flags/malayisia-flag.svg")'}}>
                   </figure>
                 </li>
                 <li>
-                  <figure style={{backgroundImage: 'url("https://dblx.co.uk/app/uploads/2020/09/Brandon-Hall-Group-01-2-01.svg")'}}>
+                  <figure style={{backgroundImage: 'url("/assets/img/country-flags/australia-flag.svg")'}}>
                   </figure>
                 </li>
                 <li>
-                  <figure style={{backgroundImage: 'url("https://dblx.co.uk/app/uploads/2020/09/Brandon-Hall-Group-01-2-01.svg")'}}>
+                  <figure style={{backgroundImage: 'url("/assets/img/country-flags/uk-flag.svg")'}}>
                   </figure>
                 </li>
                 <li>
-                  <figure style={{backgroundImage: 'url("https://dblx.co.uk/app/uploads/2020/01/NFDA-03.svg")'}}>
+                  <figure style={{backgroundImage: 'url("/assets/img/country-flags/pakistan-flag.svg")'}}>
                   </figure>
                 </li>
               </ul>

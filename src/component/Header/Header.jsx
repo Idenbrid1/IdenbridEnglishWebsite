@@ -17,7 +17,7 @@ class Header extends React.Component {
                         {/* <span>IdenBrid</span> */}
                         <img className="white-logo" style={{width:'50px',display:'none'}} src="/assets/img/fav-teal.png" alt="" />
                         <img className="black-logo" style={{width:'50px',}} src="/assets/img/fav-black.png" alt="" />
-                        <figure className="logo-text" style={{ backgroundImage: "url('/assets/img/white-text-logo.png')" }}></figure>
+                        <figure className="logo-text" style={{ backgroundImage: "url('/assets/img/logo/white-logo-tagline.svg')" }}></figure>
                         <figure className="logo-text logo-text-mobile" style={{ backgroundImage: "url('/assets/img/black-text-logo.png')", }}></figure>
                     </Link>
                     <div className="toggle-menu">menu<span><span className="middle"></span></span></div>
