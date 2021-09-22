@@ -24,7 +24,7 @@ class Home extends Component {
           <main className="main">
             <div className="homepage-sections">
               {/* <!-- Home Introduction section *idenbrid* --> */}
-              <div className="homepage-section landing make-header-light darken fp-auto-height-responsive" style={{ backgroundImage: "url('assets/img/landing-1.jpg')" }}>
+              <div className="homepage-section landing make-header-light darken fp-auto-height-responsive" style={{ backgroundImage: "url('assets/img/image-front.jpeg')" }}>
                 <p className="section-name"><span>I. </span>Introduction</p>
                 <div className="text">
                   <h1>Work is Our Entertainment <br />
@@ -206,7 +206,7 @@ class Home extends Component {
                   <div className="contact-right">
                     <ul className="location-titles">
                      {/* <li className="location-title location_1" data-location="location_1">Tokyo</li>*/}
-                      <li className="location-title location_3" data-location="location_3">Tokyo<br/>JAPAN</li>
+                      <li className="location-title location_3 is-active" data-location="location_3">Tokyo<br/>JAPAN</li>
                      {/*  <li className="location-title location_2" data-location="location_2">Lahore</li>*/}
                       <li className="location-title location_4" data-location="location_4">Lahore<br/>PAKISTAN</li>
                     </ul>
@@ -219,7 +219,7 @@ class Home extends Component {
                         <p>........</p>
         </li>*/}
 
-                 <li className="location location_3">
+                 <li className="location location_3 is-active">
                         <p>176 Y block</p>
                         <p>DHA Phase 3</p>
                         <p>Lahore Cantt</p>
@@ -235,7 +235,7 @@ class Home extends Component {
 
                       <li className="location location_4">
                         <p>176 Y block</p>
-                        <p>DHA Phase 3</p>
+                        <p>DHA Phase 3.</p>
                         <p>Lahore Cantt</p>
                         <p>Pakistan</p>
                       </li>
