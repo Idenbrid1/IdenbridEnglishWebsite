@@ -14,7 +14,7 @@ class RemoteHouse extends React.Component {
                 <Header />
                 <section className="container" id="container">
                     <main className="main">
-                        <section className="default-banner" style={{ backgroundImage: 'url("/assets/img/bizblanca-img-01.jpg")' }}>
+                        <section className="default-banner" style={{ backgroundImage: 'url("/assets/img/romote-house-banner.png")' }}>
                             <div className="banner-text">
                                 <h1>Get scouted for better</h1>
                                 <h3><em>job opportunities…</em><br />
@@ -22,7 +22,7 @@ class RemoteHouse extends React.Component {
                             </div>
                         </section>
                         <div className="overview fh-section">
-                            <figure className="overview-image" style={{ backgroundImage: 'url("/assets/img/bizblanca-img-22.png")' }} />
+                            <figure className="overview-image" style={{ backgroundImage: 'url("/assets/img/platform.png")' }} />
                             <div className="overview-text text-section">
                                 <h2>BizBlanca Platform <em>Overview</em>.</h2>
                                 <p>
@@ -34,7 +34,7 @@ class RemoteHouse extends React.Component {
                                 </p>
                             </div>
                         </div>
-                        <figure className="service-feature" style={{ backgroundImage: 'url("/assets/img/bizblanca-02.jpg")' }} />
+                   
                         <div className="OurStoryContainer">
                             <div className="OurStoryInnerContainer column-6">
                                 <div className="OurStoryInnerBlock">
@@ -101,11 +101,11 @@ class RemoteHouse extends React.Component {
                                     </p>
                                 </div>
                             </div>
-                            <div className="OurStoryInnerContainerImage column-6" style={{ backgroundImage: "url('/assets/img/about culture0.png')" }}></div>
+                            <div className="OurStoryInnerContainerImage column-6" style={{ backgroundImage: "url('/assets/img/story.png')" }}></div>
                         </div>
                         <div className="stats-wrapper fh-section">
                             <div className="stats-inner">
-                                <figure className="stats-image" style={{ backgroundImage: 'url("/assets/img/bizblanca-img-04.png")' }}>
+                                <figure className="stats-image" style={{ backgroundImage: 'url("/assets/img/specializing.png")' }}>
                                 </figure>
                                 <ul className="stats">
                                     <li className="stat">
@@ -134,7 +134,7 @@ class RemoteHouse extends React.Component {
                                 </ul>
                             </div>
                         </div>
-                        <div className="quote-section fh-section" style={{ backgroundImage: 'url("/assets/img/bizblanca-img-8.jpg")' }}>
+                        <div className="quote-section fh-section" style={{ backgroundImage: 'url("/assets/img/special-banner.png")' }}>
                             <div className="quote">
                                 <p>Pakistani IT companies are in fierce competition to acquire more talented people in the face of
                                     intensifying international competition.

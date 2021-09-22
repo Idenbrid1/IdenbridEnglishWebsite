@@ -25,6 +25,9 @@
     flex: 0 0 50%;
     max-width: 50%
 }
+.OurStoryInnerContainerImage{
+    background-position: center;
+}
 @media screen and (max-width:768px) {
     .column-6 {
         -ms-flex: 0 0 100%;

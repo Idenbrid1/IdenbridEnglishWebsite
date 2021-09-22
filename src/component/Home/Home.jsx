@@ -24,7 +24,7 @@ class Home extends Component {
           <main className="main">
             <div className="homepage-sections">
               {/* <!-- Home Introduction section *idenbrid* --> */}
-              <div className="homepage-section landing make-header-light darken fp-auto-height-responsive" style={{ backgroundImage: "url('assets/img/image-front.jpeg')" }}>
+              <div className="homepage-section landing make-header-light darken fp-auto-height-responsive" style={{ backgroundImage: "url('assets/img/landing-1.jpg')" }}>
                 <p className="section-name"><span>I. </span>Introduction</p>
                 <div className="text">
                   <h1>Work is Our Entertainment <br />
