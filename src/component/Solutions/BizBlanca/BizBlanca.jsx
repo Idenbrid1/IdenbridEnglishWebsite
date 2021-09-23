@@ -153,46 +153,47 @@ class BizBlanca extends React.Component {
                         </div>
                         <div className="page-footer">
                             <div className="contact-inner">
-                                <div className="contact-text">
-                                </div>
+                            <div className="contact-text">
+                    <h3>We&#8217;d love to build something amazing together.</h3>
+                    <p>Get in touch with us today.</p>
+                  </div>
                                 <div className="contact-right">
-                                    <ul className="location-titles">
-                                        <li className="location-title location_1" data-location="location_1">
-                                        Tokyo
-                                        </li>
-                                        <li className="location-title location_2" data-location="location_2">
-                                        Japan
-                                        </li>
-                                        <li className="location-title location_3" data-location="location_3">
-                                        Lahore
-                                        </li>
-                                        <li className="location-title location_4" data-location="location_4">
-                                        Pakistan
-                                        </li>
-                                       
-                                    </ul>
-                                    <ul className="locations">
-                                        <li className="location location_1">
-                                        <p>........</p>
-                                        <p>........</p>
-                                        <p>........</p>
-                                        <p>........</p>
-                                        <p>........</p>
-                                        </li>
-                                        <li className="location location_2">
-                                            <p>........<br />........<br />........<br />........<br />........</p>      
-                                        </li>
-                                        <li className="location location_3">
-                                        <p>176 Y block</p>
-                                        <p>DHA Phase 3</p>
-                                        <p>Lahore Cantt</p>
-                                        <p>Pakistan</p>
-                                        </li>
-                                        <li className="location location_4">
-                                        <p>........<br />........<br />..........<br />........<br />........</p>
-                                        </li>
-                                       
-                                    </ul>
+                                <ul className="location-titles">
+                     {/* <li className="location-title location_1" data-location="location_1">Tokyo</li>*/}
+                      <li className="location-title location_3 is-active" data-location="location_3">Tokyo<br/>JAPAN</li>
+                     {/*  <li className="location-title location_2" data-location="location_2">Lahore</li>*/}
+                      <li className="location-title location_4" data-location="location_4">Lahore<br/>PAKISTAN</li>
+                    </ul>
+                    <ul className="locations">
+                    {/*  <li className="location location_1">
+                        <p>........</p>
+                        <p>........</p>
+                        <p>........</p>
+                        <p>........</p>
+                        <p>........</p>
+        </li>*/}
+
+                 <li className="location location_3 is-active">
+                        <p>176 Y block</p>
+                        <p>DHA Phase 3</p>
+                        <p>Lahore Cantt</p>
+                        <p>Pakistan</p>
+        </li>
+
+                     {/* <li className="location location_2">
+                        <p>176 Y block</p>
+                        <p>DHA Phase 3</p>
+                        <p>Lahore Cantt</p>
+                        <p>Pakistan</p>
+                      </li>*/}
+
+                      <li className="location location_4">
+                        <p>176 Y block</p>
+                        <p>DHA Phase 3.</p>
+                        <p>Lahore Cantt</p>
+                        <p>Pakistan</p>
+                      </li>
+                    </ul>
                                     <div className="contact-info">
                                     <div>
                                         <span>Telephone</span>
