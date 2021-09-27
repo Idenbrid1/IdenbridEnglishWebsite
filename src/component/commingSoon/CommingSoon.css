@@ -1,5 +1,5 @@
 
-  .page {
+  .page-comming {
     background: #f1f1f1;
     display: flex;
     flex-wrap: wrap;
@@ -21,9 +21,9 @@
   
   .middle {
     position: absolute;
-    top: 50%;
+    top: 40%;
     left: 50%;
-    transform: translate(-50%, -50%);
+    transform: translate(-50%, -40%);
     text-align: center;
   }
   .CompanyTitle, .CommingSoonTitle, .reservedTitle, .CommingSoonDesc, .CompanyImage{
@@ -45,10 +45,10 @@
   .CommingSoonTitle{
     top: 57%;
     left: 50%;
-    font-size: 45px;
+    font-size: 40px;
   }
   .CommingSoonDesc{
-    top: 61%;
+    top: 65%;
     left: 50%; 
   }
   .reservedTitle{

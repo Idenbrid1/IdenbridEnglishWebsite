@@ -14,7 +14,7 @@ class Client extends React.Component {
                 <section className="container" id="container">
                     <main className="main">
                         <div className="projects-overview-grid">
-                            <div className="projects-overview-grid__project" style={{ backgroundImage: 'url("assets/img/client.jpg")' }}>
+                            <div className="projects-overview-grid__project" style={{ backgroundImage: 'url("assets/img/clients.jpg")' }}>
                                 <Link className="fill-link" to="clients/experience-uk-off-shore" />
                                 <div className="text">
                                     <h2>Experience UK offshore</h2>
@@ -47,10 +47,10 @@ class Client extends React.Component {
                                 </div>
                                 <Link/>
                             </div>
-                            <div className="projects-overview-grid__project" style={{ backgroundImage: 'url("https://dblx.co.uk/app/uploads/2020/01/1stwatch.jpg")' }}>
+                            <div className="projects-overview-grid__project" style={{ backgroundImage: 'url("/assets/img/client_aution.jpg")' }}>
                                 <Link className="fill-link" to="clients/1st-watch-global" />
                                 <div className="text">
-                                    <h2>1st Watch Global</h2>
+                                    <h2>Auction</h2>
                                 </div>
                                 <div className="projects-explore">
                                     <img height="10px" width="20px" alt="img" src="https://dblx.co.uk/app/themes/digitalbalance/dist/images/arrow-right-gold.svg" style={{ marginRight: '10px' }} />

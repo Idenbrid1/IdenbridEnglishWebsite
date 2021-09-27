@@ -143,26 +143,25 @@ class Home extends Component {
                   </div>
                   {/* <!-- clients section --> */}
                   <div className="clients">
-                    <figure style={{ backgroundImage: "url('assets/img/santander-client.svg')", height: "30px" }}></figure>
-                    <figure style={{ backgroundImage: "url('assets/img/idenbrid-client-wow-.svg')", height: "15px" }}></figure>
-                    <figure style={{ backgroundImage: "url('assets/img/idenbrid-client-river-island.svg')", height: "17px" }}></figure>
-                    <figure style={{ backgroundImage: "url('assets/img/idenbrid-client-ebay.svg')" }}></figure>
-                    <figure style={{ backgroundImage: "url('assets/img/idenbrid-client-bt.svg')", height: "50px" }}></figure>
-                    <figure style={{ backgroundImage: "url('assets/img/idenbrid-client-superdry.svg')" }}></figure>
-                    <figure style={{ backgroundImage: "url('assets/img/idenbrid-client-hra.svg')", height: "50px" }}></figure>
-                    <figure style={{ backgroundImage: "url('assets/img/idenbrid-client-ee.svg')", height: "50px" }}></figure>
-                    <figure style={{ backgroundImage: "url('assets/img/idenbrid-client-legal-general.svg')", height: "55px" }}></figure>
-                    <figure style={{ backgroundImage: "url('assets/img/idenbrid-client-bbc.svg')" }}></figure>
-                    <figure style={{ backgroundImage: "url('assets/img/idenbrid-client-talktalk.svg')" }}></figure>
-                    <figure style={{ backgroundImage: "url('assets/img/idenbrid-client-vodafone.svg')" }}></figure>
-                    <figure style={{ backgroundImage: "url('assets/img/idenbrid-client-Expedia.svg')" }}></figure>
-                    <figure style={{ backgroundImage: "url('assets/img/idenbrid-client-Specsavers.svg')", height: "40px" }}></figure>
-                    <figure style={{ backgroundImage: "url('assets/img/idenbrid-client-loreal-paris.svg')", height: "30px" }}></figure>
-                    <figure style={{ backgroundImage: "url('assets/img/idenbrid-client-kia.svg')", height: "40px" }}></figure>
-                    <figure style={{ backgroundImage: "url('assets/img/idenbrid-client-is-watch.svg')" }}></figure>
-                    <figure style={{ backgroundImage: "url('assets/img/idenbrid-client-dixons.svg')" }}></figure>
-                    <figure style={{ backgroundImage: "url('assets/img/idenbrid-client-env-ess.svg')" }}></figure>
-                    <figure style={{ backgroundImage: "url('assets/img/idenbrid-client-qine-tix.svg')" }}></figure>
+                    <figure style={{ backgroundImage: "url('assets/img/client-logo/Artboard-42.png')", height: "50px" }}></figure>
+                    <figure style={{ backgroundImage: "url('assets/img/client-logo/Artboard-45.png')", height: "50px" }}></figure>
+                    <figure style={{ backgroundImage: "url('assets/img/client-logo/Artboard-47.png')", height: "50px" }}></figure>
+                    <figure style={{ backgroundImage: "url('assets/img/client-logo/Artboard-48.png')", height: "50px" }}></figure>
+                    <figure style={{ backgroundImage: "url('assets/img/client-logo/Artboard-49.png')", height: "50px" }}></figure>
+                    <figure style={{ backgroundImage: "url('assets/img/client-logo/Artboard-50.png')", height: "50px" }}></figure>
+                    <figure style={{ backgroundImage: "url('assets/img/client-logo/Artboard-51.png')", height: "50px" }}></figure>
+                    <figure style={{ backgroundImage: "url('assets/img/client-logo/Artboard-52.png')", height: "50px" }}></figure>
+                    <figure style={{ backgroundImage: "url('assets/img/client-logo/Artboard-53.png')", height: "50px" }}></figure>
+                    <figure style={{ backgroundImage: "url('assets/img/client-logo/Artboard-54.png')", height: "50px" }}></figure>
+                    <figure style={{ backgroundImage: "url('assets/img/client-logo/Artboard-55.png')", height: "50px" }}></figure>
+                    <figure style={{ backgroundImage: "url('assets/img/client-logo/Artboard-56.png')", height: "50px" }}></figure>
+                    <figure style={{ backgroundImage: "url('assets/img/client-logo/Artboard-57.png')", height: "50px" }}></figure>
+                    <figure style={{ backgroundImage: "url('assets/img/client-logo/Artboard-58.png')", height: "50px" }}></figure>
+                    <figure style={{ backgroundImage: "url('assets/img/client-logo/Artboard-59.png')", height: "50px" }}></figure>
+                    <figure style={{ backgroundImage: "url('assets/img/client-logo/Artboard-60.png')", height: "50px" }}></figure>
+                    <figure style={{ backgroundImage: "url('assets/img/client-logo/Artboard-61.png')", height: "50px" }}></figure>
+                    <figure style={{ backgroundImage: "url('assets/img/client-logo/Artboard-62.png')", height: "50px" }}></figure>
+                    <figure style={{ backgroundImage: "url('assets/img/client-logo/Artboard-64.png')", height: "50px" }}></figure>
                   </div>
                   {/* <!-- clients section end--> */}
                 </div>

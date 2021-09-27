@@ -15,22 +15,23 @@ class RemoteHouse extends React.Component {
                 <section className="container" id="container">
                     <main className="main">
                         <section className="default-banner" style={{ backgroundImage: 'url("/assets/img/romote-house-banner.png")' }}>
-                            <div className="banner-text">
-                                <h1>Get scouted for better</h1>
-                                <h3><em>job opportunities…</em><br />
-                                    <em>Top quality IT career <br /> changes for life-winners</em></h3>
+                            <div className="banner-text remote-banner">
+                                <h1>「Remote House」 </h1>
+                                <h3><em>We fuel your company's</em><br />
+                                    <em>growth by providing talented <br /> remote developers and software engineers.</em></h3>
                             </div>
                         </section>
                         <div className="overview fh-section">
                             <figure className="overview-image" style={{ backgroundImage: 'url("/assets/img/platform.png")' }} />
                             <div className="overview-text text-section">
-                                <h2>BizBlanca Platform <em>Overview</em>.</h2>
+                                <h2>PROVIDING SPECIALISED HUMAN RESOURCES TO UK BUSINESSES</h2>
+                                <p><strong>Remote House: An Overview</strong></p>
                                 <p>
-                                    BizBlanca is a job-changing platform, specializing in IT human resources.
-                                    Using our extenisive database, we help job-seekers recieve headhunting and
-                                    scout offers, supporting the transition to a better career. BizBlanca also
-                                    supports businesses by helping to recruit the right human resources and finding
-                                    talented people who are ready to work.
+                                Remote House is a remote hiring service that builds a bridge between 
+                                growing businesses in the UK and talented software engineers in Pakistan.
+                                Our service streamlines and simplifies the hiring process,
+                                connecting your business with our team of candidates who
+                                have passed internationally recognised tests (?) for world-class software engineers.
                                 </p>
                             </div>
                         </div>
@@ -110,25 +111,30 @@ class RemoteHouse extends React.Component {
                                 <ul className="stats">
                                     <li className="stat">
                                         <span className="value">1.</span>
-                                        <h3>Specializing in top quality, ready to work IT human resources</h3>
-                                        <p>Time is money and our human resources contribute to business growth
-                                            with fast and efficient results.
+                                        <h3>Recruitment made Simple</h3>
+                                        <p>From the first email to the first day of work,
+                                           we take the pain out of hiring and bring only the most qualified and specialized candidates to you.
                                         </p>
                                     </li>
                                     <li className="stat">
                                         <span className="value">2.</span>
-                                        <h3>Choose from an extenisve databse - hire someone new in as little as 5 days</h3>
-                                        <p>Carefully selected and excellent human resources can be sourced,
-                                            contacted and hired in the shortest possible time.
+                                        <h3>Streamlined and Efficient</h3>
+                                        <p>With Remote House, we streamline and accelerate the hiring process bringing 
+                                           you talented candidates within days of your initial consultation.
                                         </p>
                                     </li>
                                     <li className="stat">
                                         <span className="value">3.</span>
-                                        <h3>Reliable payment system</h3>
-                                        <p>We boast low market prices, without scrimping on quality.
-                                            Use our platform with confidence, pay in installments and
-                                            experience the benefits of our services without having to
-                                            pay upfront.
+                                        <h3>Affordable Rates for Growing Businesses</h3>
+                                        <p>Grow your business without compromise as affordable rates mean you can dramatically 
+                                           save on hiring and monthly expenses without ever compromising on quality.
+                                        </p>
+                                    </li>
+                                    <li className="stat">
+                                        <span className="value">4.</span>
+                                        <h3>Globalize your Team</h3>
+                                        <p>Transcend your business’s geographical limits, 
+                                           and access the diverse skillsets and specializations of a global workforce.
                                         </p>
                                     </li>
                                 </ul>
@@ -136,26 +142,27 @@ class RemoteHouse extends React.Component {
                         </div>
                         <div className="quote-section fh-section" style={{ backgroundImage: 'url("/assets/img/special-banner.png")' }}>
                             <div className="quote">
-                                <p>Pakistani IT companies are in fierce competition to acquire more talented people in the face of
-                                    intensifying international competition.
-                                    At BizBlanca, we have excellent human resources that are indispensable to company growth. </p>
+                                <p>The landscape of the contemporary workforce is going through an evolution like no other in history: remote work
+                                    is tearing down geographical barriers and building a future of unprecedented global collaboration.</p>
                                 <p>&nbsp;</p>
-                                <h4><strong>Mujtaba Tariq</strong></h4>
-                                <h5>Business Manager</h5>
+                                <h4><strong>Tyler Warner</strong></h4>
+                                <h5>BUSINESS DEVELOPMENT EXECUTIVE</h5>
                                 {/* <h5><strong>Santander</strong></h5> */}
                             </div>
                         </div>
                         <div className="detail-section fh-section">
                             <div className="detail-inner">
                                 <div className="detail-left text-section">
-                                    <h2>BizBlanca <em>Platfrom</em></h2>
+                                    <h2>What is "Remote House"?<em>Service details</em></h2>
                                     <p>&nbsp;</p>
                                     <p>
                                         <strong>
-                                            In it's simplest form, BizBlanca is a smart way for companies and IT employees to seek each other quickly and effectively.
-                                            We are a matching databse that connects high-class IT human resources with immediate capabilities,
-                                            to high-end client companies. We firmly hold a vision to "eliminate unmatched recruitment,"
-                                            thus saving the time, effort and money wasted on hiring and changing jobs.
+                                        Remote House is a matching service that allows you to hire talented IT personnel remotely. We provide employers with the following services:<br/>
+(1) We have an in-depth discussion to establish requirements of the role.<br/>
+(2) We gather candidates based on these established employment conditions. <br/>
+(3) A three-way interview will be held between a representative from your business, the candidate, and a Remote House representative.<br/>
+(4) Once a candidate has been chosen, we work with your business to establish an employment contract. <br/>
+(5) Once the contract is signed, your new team member may begin working remotely from the Remote House office (?) <br/>
                                         </strong>
                                     </p>
                                     <p>

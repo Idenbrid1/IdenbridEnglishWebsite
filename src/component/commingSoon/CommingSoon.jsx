@@ -45,7 +45,7 @@ class CommingSoon extends React.Component {
     render() {
         return (
             <Fragment>
-                <div className="page">
+                <div className="page-comming">
                     <div className="countdown-col col" style={{ background: "url('https://fadzrinmadu.github.io/hosted-assets/responsive-coming-soon-page-with-awesome-newsletter-html-css-and-js/bg.png') no-repeat",backgroundSize:"cover" }}>
                        
                         <Link to="/">

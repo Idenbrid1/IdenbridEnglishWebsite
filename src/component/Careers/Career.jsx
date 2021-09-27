@@ -122,70 +122,70 @@ class Career extends React.Component {
                                 <div className="careers-benefits-right">
                                     <div className="benefits-grid-wrapper">
                                     <div className="benefit-card">
-                                            <div className="benefit-icon" style={{ backgroundImage: 'url("https://dblx.co.uk/app/uploads/2020/06/learning.svg")' }}>
+                                            <div className="benefit-icon" style={{ backgroundImage: 'url("/assets/img/company-icons/Artboard 2.svg")' }}>
                                             </div>
                                             <div className="benefit-card-text">
                                             Learning &amp; Development
                                             </div>
                                         </div>
                                         <div className="benefit-card">
-                                            <div className="benefit-icon" style={{ backgroundImage: 'url("https://dblx.co.uk/app/uploads/2020/06/time.svg")' }}>
+                                            <div className="benefit-icon" style={{ backgroundImage: 'url("/assets/img/company-icons/Artboard 3.svg")' }}>
                                             </div>
                                             <div className="benefit-card-text">
                                             Great office environment
                                             </div>
                                         </div>
                                         <div className="benefit-card">
-                                            <div className="benefit-icon" style={{ backgroundImage: 'url("https://dblx.co.uk/app/uploads/2020/06/coffee.svg")' }}>
+                                            <div className="benefit-icon" style={{ backgroundImage: 'url("/assets/img/company-icons/Artboard 4.svg")' }}>
                                             </div>
                                             <div className="benefit-card-text">
                                             Free tea and coffee
                                             </div>
                                         </div>
                                         <div className="benefit-card">
-                                            <div className="benefit-icon" style={{ backgroundImage: 'url("https://dblx.co.uk/app/uploads/2020/06/bupa.svg")' }}>
+                                            <div className="benefit-icon" style={{ backgroundImage: 'url("/assets/img/company-icons/Artboard 5.svg")' }}>
                                             </div>
                                             <div className="benefit-card-text">
                                             No overwork
                                             </div>
                                         </div>
                                         <div className="benefit-card">
-                                            <div className="benefit-icon" style={{ backgroundImage: 'url("https://dblx.co.uk/app/uploads/2020/06/gym.svg")' }}>
+                                            <div className="benefit-icon" style={{ backgroundImage: 'url("/assets/img/company-icons/Artboard 6.svg")' }}>
                                             </div>
                                             <div className="benefit-card-text">
                                             Full weekends off
                                             </div>
                                         </div>
                                         <div className="benefit-card">
-                                            <div className="benefit-icon" style={{ backgroundImage: 'url("https://dblx.co.uk/app/uploads/2020/06/studio.svg")' }}>
+                                            <div className="benefit-icon" style={{ backgroundImage: 'url("/assets/img/company-icons/Artboard 7.svg")' }}>
                                             </div>
                                             <div className="benefit-card-text">
                                                 Creative &amp; Awesome Studio
                                             </div>
                                         </div>
                                         <div className="benefit-card">
-                                            <div className="benefit-icon" style={{ backgroundImage: 'url("https://dblx.co.uk/app/uploads/2020/06/events.svg")' }}>
+                                            <div className="benefit-icon" style={{ backgroundImage: 'url("/assets/img/company-icons/Artboard 8.svg")' }}>
                                             </div>
                                             <div className="benefit-card-text">
                                                 Interactive &amp; fun team
                                             </div>
                                         </div>
                                         <div className="benefit-card">
-                                            <div className="benefit-icon" style={{ backgroundImage: 'url("https://dblx.co.uk/app/uploads/2020/06/holiday.svg")' }}>
+                                            <div className="benefit-icon" style={{ backgroundImage: 'url("/assets/img/company-icons/Artboard 9.svg")' }}>
                                             </div>
                                             <div className="benefit-card-text">
                                             Great internship programmes
                                             </div>
                                         </div>
                                         <div className="benefit-card">
-                                            <div className="benefit-icon" style={{ backgroundImage: 'url("https://dblx.co.uk/app/uploads/2020/06/holiday.svg")' }}>
+                                            <div className="benefit-icon" style={{ backgroundImage: 'url("/assets/img/company-icons/Artboard 10.svg")' }}>
                                             </div>
                                             <div className="benefit-card-text">
                                              Tackling various international projects
                                             </div>
                                         </div>
                                         <div className="benefit-card">
-                                            <div className="benefit-icon" style={{ backgroundImage: 'url("https://dblx.co.uk/app/uploads/2020/06/technology.svg")' }}>
+                                            <div className="benefit-icon" style={{ backgroundImage: 'url("/assets/img/company-icons/Artboard 11.svg")' }}>
                                             </div>
                                             <div className="benefit-card-text">
                                                 Latest Technology &amp; Equipment
