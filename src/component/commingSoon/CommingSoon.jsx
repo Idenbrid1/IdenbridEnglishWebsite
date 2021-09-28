@@ -7,7 +7,7 @@ class CommingSoon extends React.Component {
     state = {}
     componentDidMount() {
         document.body.classList.value = '';
-        let comingDate = new Date('Sep 27, 2021 13:12:00')
+        let comingDate = new Date('Sep 29, 2021 13:12:00')
 
         let d = document.getElementById('days')
         let h = document.getElementById('hours')
