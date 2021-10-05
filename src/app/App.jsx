@@ -13,6 +13,7 @@ import Career from '../component/Careers/Career';
 import Contact from '../component/Contact/Contact';
 import  MessageNews  from "../component/MessageNews/MessageNews";
 import MessagePerson from "../component/MessageNews/MessagePerson";
+import SiraskaMessage from "../component/MessageNews/SiraskaMessage";
 import PrivacyPolicy from "../component/PrivacyPolicy/PrivacyPolicy";
 import Pakteki from "../component/Solutions/Pakteki/Pakteki";
 import CommingSoon from '../component/commingSoon/CommingSoon';
@@ -38,6 +39,7 @@ class App extends React.Component {
             <Route exact path="/clients" component={Client}/>
             <Route exact path="/careers" component={Career}/>
             <Route exact path="/careers/message" component={MessagePerson}/>
+            <Route exact path="/careers/siraskaMessage" component={SiraskaMessage}/>
             <Route exact path="/paketki/detail-news/:id" component={MessageNews}/>
             <Route exact path="/contact" component={Contact}/>
             <Route exact path="/privacy-policy" component={PrivacyPolicy}/>     

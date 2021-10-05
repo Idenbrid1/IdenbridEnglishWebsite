@@ -89,7 +89,8 @@ class Contact extends React.Component {
                                         <p>
                                         Telephone
                                         </p>
-                                        <p>03014345825</p>
+                                        <p>+923014345825</p>
+                                        <p>Language: English, Urdu</p>
                                         <p />
                                     </div>
                                 </li>
@@ -101,7 +102,8 @@ class Contact extends React.Component {
                                         <p>Working remotely</p>
                                         <p>
                                         Telephone
-                                        </p><p>070-1448-5966</p>
+                                        </p><p>+8170-1448-5966</p>
+                                        <p>Language: Japanese, English</p>
                                         <p />
                                     </div>
                                 </li> 

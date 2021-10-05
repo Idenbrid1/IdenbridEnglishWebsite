@@ -15,9 +15,9 @@ class Client extends React.Component {
                     <main className="main">
                         <div className="projects-overview-grid">
                             <div className="projects-overview-grid__project" style={{ backgroundImage: 'url("assets/img/clients.jpg")' }}>
-                                <Link className="fill-link" to="clients/experience-uk-off-shore" />
+                                <Link className="fill-link" to="/coming-soon" />
                                 <div className="text">
-                                    <h2>Experience UK offshore</h2>
+                                    <h2>Mobile App </h2>
                                 </div>
                                 <div className="projects-explore">
                                     <img height="10px" width="20px" alt="img" src="https://dblx.co.uk/app/themes/digitalbalance/dist/images/arrow-right-gold.svg" style={{ marginRight: '10px' }} />
@@ -28,7 +28,7 @@ class Client extends React.Component {
                             <div className="projects-overview-grid__project" style={{ backgroundImage: 'url("/assets/img/client_usa anmarie.jpg")' }}>
                                 <Link className="fill-link" to="clients/usa" />
                                 <div className="text">
-                                    <h2>USA</h2>
+                                    <h2>Anmarie Uber</h2>
                                 </div>
                                 <div className="projects-explore">
                                     <img height="10px" width="20px" alt="img" src="https://dblx.co.uk/app/themes/digitalbalance/dist/images/arrow-right-gold.svg" style={{ marginRight: '10px' }} />
@@ -48,9 +48,9 @@ class Client extends React.Component {
                                 <Link/>
                             </div>
                             <div className="projects-overview-grid__project" style={{ backgroundImage: 'url("/assets/img/client_aution.jpg")' }}>
-                                <Link className="fill-link" to="clients/1st-watch-global" />
+                                <Link className="fill-link" to="/coming-soon" />
                                 <div className="text">
-                                    <h2>Auction</h2>
+                                    <h2>Web Application</h2>
                                 </div>
                                 <div className="projects-explore">
                                     <img height="10px" width="20px" alt="img" src="https://dblx.co.uk/app/themes/digitalbalance/dist/images/arrow-right-gold.svg" style={{ marginRight: '10px' }} />

@@ -184,13 +184,13 @@ class Career extends React.Component {
                                              Tackling various international projects
                                             </div>
                                         </div>
-                                        <div className="benefit-card">
+                                       {/* <div className="benefit-card">
                                             <div className="benefit-icon" style={{ backgroundImage: 'url("/assets/img/company-icons/Artboard 11.svg")' }}>
                                             </div>
                                             <div className="benefit-card-text">
                                                 Latest Technology &amp; Equipment
                                             </div>
-                                        </div>
+                                        </div>*/}
                                     </div>
                                 </div>
                             </div>
@@ -238,7 +238,7 @@ class Career extends React.Component {
                                     <Link/>
                                 </li>
                                 <li className="careers-info__posts__post post-2 tilt" style={{ backgroundImage: 'url("/assets/img/sir-aska-career.png")' }}>
-                                    <Link to="/careers/message" className="fill-link" />
+                                    <Link to="/careers/siraskaMessage" className="fill-link" />
                                     <div className="card-bottom">
                                         <span className="blog-category">
                                         NEWS

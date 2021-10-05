@@ -17,20 +17,23 @@ class Solution extends React.Component {
                         <div className="services fh-section">
                             <ul className="services-list">
                                 <li className="service-category">
-                                    <h1>Idenbrid Software Development</h1>
+                                    <h1>Idenbrid Inhouse Online Services</h1>
                                 </li>
                                 <li className="service_1">
                                     <figure className="service-image" style={{ backgroundImage: 'url("assets/img/solutions_bizblanca.jpg")' }} />
-                                    <Link to="/solutions/bizblanca">Bizblanca Provide Jobs </Link>
+                                    <h3>IT jobs ke liye</h3>
+                                    <Link to="/solutions/bizblanca">BizBlanca : IT HR Database Community </Link>
                                 </li>
                                 <li className="service_2">
                                     <figure className="service-image" style={{ backgroundImage: 'url("assets/img/solutions_pakteki.jpg")' }} />
-                                    <Link to="/solutions/pakteki">Pakteki News Hub </Link>
+                                    <h3>Update Pakistan</h3>
+                                    <Link to="/solutions/pakteki">PAKTEKI : News Curation Hub </Link>
                                 </li>
-                                {/*<li className="service_3">
-                                    <figure className="service-image" style={{ backgroundImage: 'url("assets/img/cartax.jpg")' }} />
-                                    <Link to="/">Cartax vehicle Import Platform</Link>
-        </li>*/}
+                                <li className="service_3">
+                                    <figure className="service-image" style={{ backgroundImage: 'url("assets/img/solutions_zindawork.jpg")' }} />
+                                    <h3>Your Best Career The Best You</h3>
+                                    <Link to="/comming-soon">ZINDAWORK : Online Recruitment Platform </Link>
+        </li>
                             </ul>
                         </div>
                     </main>

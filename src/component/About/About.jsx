@@ -161,7 +161,7 @@ class About extends React.Component {
                 <h3>Hamza Saqib</h3>
                 <span className="role">Head Architect</span>
               </li>
-              <li className="member  leaders" data-slug style={{backgroundImage: 'url("/assets/img/ahmad-frontend-dev.JPG")',backgroundSize:"35vw 100%"}}>
+              <li className="member  leaders" data-slug style={{backgroundImage: 'url("/assets/img/ahmad-frontend-dev.JPG")'}}>
                 <figure className="superhero" style={{backgroundImage: 'url("/assets/img/elon.jpg")'}}>
                 </figure>
                 <h3>Ahmad</h3>
@@ -206,7 +206,7 @@ class About extends React.Component {
                 <span className="role">Brand Officer</span>
               </li>
               <li className="member  leaders" data-slug style={{backgroundImage: 'url("/assets/img/Fahad.png")'}}>
-                <figure className="superhero" style={{backgroundImage: 'url("/assets/img/Quaid-e-Azam_Jinnah.jpg")'}}>
+                <figure className="superhero" style={{backgroundImage: 'url("/assets/img/musharaf.jpg")'}}>
                 </figure>
                 <h3>Fahad</h3>
                 <span className="role">Apprentic bussiness Developer</span>

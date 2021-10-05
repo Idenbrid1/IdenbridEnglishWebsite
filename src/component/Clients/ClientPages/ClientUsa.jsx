@@ -113,7 +113,7 @@ class UsaClient extends React.Component {
                                 </div>
                             </div>
                         </div>
-                        <div class="project-section-three fh-section" style={{ backgroundImage: "url('/assets/img/anmarie-ubr-mage-04.png')" }}></div>
+                        {/*<div class="project-section-three fh-section" style={{ backgroundImage: "url('/assets/img/anmarie-ubr-mage-04.png')" }}></div>*/}
                         <div class="project-section-six fh-section">
                             <div class="project-section-six-inner">
                                 <div class="project-result-title" data-aos="fade-up">

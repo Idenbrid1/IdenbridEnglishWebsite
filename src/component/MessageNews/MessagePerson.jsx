@@ -26,9 +26,9 @@ class MessagePerson extends React.Component {
                                 </div>
                                 <div className="entry-date">
                                     <time className="updated" dateTime="2020-04-16T11:53:16+00:00">
-                                        <span className="date-day">16th</span>
-                                        <span className="date-month">April</span>
-                                        <span className="date-year">2020</span>
+                                        <span className="date-day">28 </span>
+                                        <span className="date-month">September </span>
+                                        <span className="date-year">2021</span>
                                     </time>
                                 </div>
                             </div>

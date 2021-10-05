@@ -144,16 +144,16 @@ class Home extends Component {
                   {/* <!-- clients section --> */}
                   <div className="clients">
                     <figure style={{ backgroundImage: "url('assets/img/client-logo/Artboard-42.png')", height: "50px" }}></figure>
-                    <figure style={{ backgroundImage: "url('assets/img/client-logo/Artboard-45.png')", height: "50px" }}></figure>
+                    {/*<figure style={{ backgroundImage: "url('assets/img/client-logo/Artboard-45.png')", height: "50px" }}></figure>*/}
                     <figure style={{ backgroundImage: "url('assets/img/client-logo/Artboard-47.png')", height: "50px" }}></figure>
                     <figure style={{ backgroundImage: "url('assets/img/client-logo/Artboard-48.png')", height: "50px" }}></figure>
                     <figure style={{ backgroundImage: "url('assets/img/client-logo/Artboard-49.png')", height: "50px" }}></figure>
-                    <figure style={{ backgroundImage: "url('assets/img/client-logo/Artboard-50.png')", height: "50px" }}></figure>
+                   {/* <figure style={{ backgroundImage: "url('assets/img/client-logo/Artboard-50.png')", height: "50px" }}></figure>*/}
                     <figure style={{ backgroundImage: "url('assets/img/client-logo/Artboard-51.png')", height: "50px" }}></figure>
                     <figure style={{ backgroundImage: "url('assets/img/client-logo/Artboard-52.png')", height: "50px" }}></figure>
                     <figure style={{ backgroundImage: "url('assets/img/client-logo/Artboard-53.png')", height: "50px" }}></figure>
                     <figure style={{ backgroundImage: "url('assets/img/client-logo/Artboard-54.png')", height: "50px" }}></figure>
-                    <figure style={{ backgroundImage: "url('assets/img/client-logo/Artboard-55.png')", height: "50px" }}></figure>
+                    {/*<figure style={{ backgroundImage: "url('assets/img/client-logo/Artboard-55.png')", height: "50px" }}></figure>*/}
                     <figure style={{ backgroundImage: "url('assets/img/client-logo/Artboard-56.png')", height: "50px" }}></figure>
                     <figure style={{ backgroundImage: "url('assets/img/client-logo/Artboard-57.png')", height: "50px" }}></figure>
                     <figure style={{ backgroundImage: "url('assets/img/client-logo/Artboard-58.png')", height: "50px" }}></figure>
