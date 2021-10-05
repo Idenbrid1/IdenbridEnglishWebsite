@@ -1,4 +1,4 @@
-import React, { Fragment } from "react";
+import React, { Fragment, Suspense } from "react";
 import { Switch, Route } from "react-router-dom";
 import Home from "../component/Home/Home";
 import About from '../component/About/About';
@@ -27,6 +27,7 @@ class App extends React.Component {
   render() {
     return (
       <Fragment>
+        <Suspense fallback={<h1>Loading...</h1>}>
           <Switch>
             <Route exact path="/" component={Home}/>
             <Route exact path="/comming-soon" component={CommingSoon}/>
@@ -47,6 +48,7 @@ class App extends React.Component {
             <Route exact path="/clients/usa" component={UsaClient}/>     
             <Route exact path="/clients/experience-uk-off-shore" component={ExperienceOffShoreClient}/>     
           </Switch>
+          </Suspense>
       </Fragment>
     );
   }
