@@ -8,26 +8,21 @@ class CommingSoon extends React.Component {
     componentDidMount() {
         document.body.classList.value = '';
         let comingDate = new Date('Oct 10, 2021 13:12:00')
-
         let d = document.getElementById('days')
         let h = document.getElementById('hours')
         let m = document.getElementById('minutes')
         let s = document.getElementById('seconds')
-
         let x = setInterval(function () {
             let now = new Date()
             let selisih = comingDate.getTime() - now.getTime()
-
             let days = Math.floor(selisih / (1000 * 60 * 60 * 24))
             let hours = Math.floor(selisih % (1000 * 60 * 60 * 24) / (1000 * 60 * 60))
             let minutes = Math.floor(selisih % (1000 * 60 * 60) / (1000 * 60))
             let seconds = Math.floor(selisih % (1000 * 60) / 1000)
-
             d.innerHTML = getTrueNumber(days)
             h.innerHTML = getTrueNumber(hours)
             m.innerHTML = getTrueNumber(minutes)
             s.innerHTML = getTrueNumber(seconds)
-
             if (selisih < 0) {
                 clearInterval(x)
                 d.innerHTML = '00'
@@ -47,7 +42,6 @@ class CommingSoon extends React.Component {
             <Fragment>
                 <div className="page-comming">
                     <div className="countdown-col col" style={{ background: "url('https://fadzrinmadu.github.io/hosted-assets/responsive-coming-soon-page-with-awesome-newsletter-html-css-and-js/bg.png') no-repeat",backgroundSize:"cover" }}>
-                       
                         <Link to="/">
                         <h1 className="CompanyTitle">Idenbrid</h1>
                         <img className="white-logo CompanyImage" style={{width:'50px',}} src="/assets/img/fav-teal.png" alt="" />
